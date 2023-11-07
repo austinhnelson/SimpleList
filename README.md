@@ -1,14 +1,14 @@
-## Assignment 1: A1 SimpleList
+# Assignment 1: A1 SimpleList
 ## Author: Austin Nelson
 ## Class: CS 402 Section 001
 
-# Project Description: 
+### Project Description: 
 A program with simple list functionalities for adding, removing, joining and splitting elements. There is also
 a reset function that will restore the list to its original state. There is a bank of scientist names which are the 
 ones that get added to the seen list when the add button is pressed. Along with the names, each entry also has an
 user id associated with it. The id is not shown but is in the source code if it wanted to be added. 
 
-# Reflection:
+### Reflection:
 Overall, I actually found this assignment to be quite fun. I really enjoy learning new languages and I have never
 worked with Javascript before (as well as React frameworks) so that process was enjoyable to me. Granted, there were
 a lot of things I had to look up because I wasn't familiar with any list functions and just what was possible.
